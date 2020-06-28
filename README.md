@@ -1,5 +1,5 @@
 # sharecode-fixer-by-Bl4ckCyb3rEnigm4
-This is a tool created by me for nsane
+This is a tool created by me for nsane and fixes sharecodes.
 ---------------------------------------------------------------------------
 |                 if you use my code you have to credit me.               |
 ---------------------------------------------------------------------------
