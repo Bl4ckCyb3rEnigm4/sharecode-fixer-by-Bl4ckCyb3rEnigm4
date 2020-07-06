@@ -1,5 +1,5 @@
-# sharecode-fixer-by-Bl4ckCyb3rEnigm4#
-#Thanks to GlacialMan for the testing.#
+# sharecode-fixer-by-Bl4ckCyb3rEnigm4
+# Thanks to GlacialMan for the testing.
 
 This is a tool created by me for nsane. I made this program in AutoIt from 
 scratch, this one should work for every sharecode format.
