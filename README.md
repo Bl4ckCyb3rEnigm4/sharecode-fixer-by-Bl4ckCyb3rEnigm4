@@ -11,4 +11,4 @@ clicking on it with the right button and selection "close".
 |                 if you use my code you have to credit me.               |
 ---------------------------------------------------------------------------
 I hope you like this tool.
-Thanks to GlacialMan for the testing
+###################Thanks to GlacialMan for the testing###################
