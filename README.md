@@ -8,7 +8,7 @@ source code, in the case you'll use the code, you'll have to credit me.
 When started the tool it will fix every sharecode you copy and it'll alert 
 you using a notification. 
 When you don't want to use the tool, just close it from the tray icon, by 
-clicking on it with the right button and selection "close". 
+clicking on it with the right button and selecting "close". 
 ---------------------------------------------------------------------------
 |                 if you use my code you have to credit me.               |
 ---------------------------------------------------------------------------
